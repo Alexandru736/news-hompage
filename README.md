@@ -128,3 +128,5 @@ Home
   03
   The Growth of Gaming
   How the pandemic has sparked fresh opportunities.
+
+  flex flex-col gap-8 
